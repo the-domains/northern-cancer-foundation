@@ -1,0 +1,14 @@
+layout_spectrum: 0.9951664
+color:
+  saturation: 0.7191193
+  lightness: 0.8286788
+  brandStrength: 0.4978518
+  brandColors:
+    - '#000000'
+    - '#6C3C97'
+    - '#8A69AE'
+    - '#FFFFFF'
+    - '#96C93E'
+  rhythmicContrast: 0.2056928
+typography_spectrum: 0.6901182
+name: 'Northern Cancer Foundation '
